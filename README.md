@@ -1,2 +1,0 @@
-# testMygit2
-dadsadasdsadasd
